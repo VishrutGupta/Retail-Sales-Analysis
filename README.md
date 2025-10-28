@@ -129,15 +129,6 @@ Built in **Power BI**, the interactive dashboard includes:
 The analysis revealed a consistent trend of higher sales during workdays, a strong preference for premium-priced items, and gender-based product differences. These insights can help inform better inventory planning, pricing strategies, and targeted promotions to boost revenue.
 
 
-### Files in Repository
-- `Retail_Sales_Analysis.pbix` – Power BI dashboard file (https://github.com/FisayoAnalyst/Retail-Sales-Analysis-Using-Power-BI/blob/main/Retail_Sales%20Analytics.pbix)
-
-- `Retail_Sales_Data.xlsx` – Cleaned dataset (https://github.com/FisayoAnalyst/Retail-Sales-Analysis-Using-Power-BI/blob/main/retail_sales_dataset.xlsx)
-
-- `Retail_Sales_Report.pdf` – Detailed project report. (https://github.com/FisayoAnalyst/Retail-Sales-Analysis-Using-Power-BI/blob/main/Retail%20Sales_Analysis_Report.pdf)
-
-- `README.md` – Project summary
-
 
 ### What I Learned
 - End-to-end dashboard creation using Power BI
